@@ -3,11 +3,12 @@
             margin: 0;
             padding: 0;
         }
-        table{
-            background-color: yellow;
-            color: black;
-        }
-        p{
+        .caption{
             font-weight: bold;
             padding-left: 26px;
+        }
+        table{
+            border: 1px solid rgb(0, 0, 0);
+            background-color: yellow;
+            color: black;
         }
