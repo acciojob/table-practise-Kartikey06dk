@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{
+            margin: 0;
+            padding: 0;
+        }
+        table{
+            background-color: yellow;
+            color: black;
+        }
+        p{
+            font-weight: bold;
+            padding-left: 26px;
+        }
